@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimonLiu2
 - 👀 I’m interested in Python Coding/Machine Learning
-- 🌱 I’m currently purchasing my Master degree of space physics
+- 🌱 I’m currently pursuing my Master degree of space physics
 - 💞️ I’m looking to collaborate on coding capability
 - 📫 How to reach me: 6460925218@qq.com / chaisvcorgi@gmail.com
 - 😄 Pronouns: he
